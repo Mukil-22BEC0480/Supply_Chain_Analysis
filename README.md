@@ -1,6 +1,6 @@
-# Supply_Chain_Analysis
-
 # Automated Data Analytics Pipeline using n8n, PostgreSQL & Quadratic
+
+
 
 ## 📌 Overview
 This project demonstrates an end-to-end, cloud-based data analytics workflow using automation, databases, and prompt-driven analysis. Source spreadsheets are received via email, automatically monitored and ingested using n8n, stored in a cloud-hosted PostgreSQL database, and analyzed in Quadratic to generate business insights and dashboards.
