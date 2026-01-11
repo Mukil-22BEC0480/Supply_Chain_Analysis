@@ -37,7 +37,20 @@ A sample source file is included in the repository for reference.
 4. PostgreSQL is hosted on the cloud using Supabase  
 5. Quadratic connects to PostgreSQL and pulls the data  
 6. Prompt-based analysis and calculations are performed in Quadratic  
-7. Insights and dashboard-ready outputs are generated  
+7. Insights and dashboard-ready outputs are generated
+
+### 🔄 n8n Workflow
+
+[![n8n Workflow](n8n%20Workflow%20Screenshot%20(Reference).png)](n8n%20Workflow%20Screenshot%20(Reference).png)
+
+This workflow uses n8n to monitor incoming emails, extract spreadsheet attachments, and ingest the data into a PostgreSQL database hosted on Supabase.
+
+### 📊 Quadratic Analysis
+
+[![Quadratic Analysis](Quadratic%20Screenshot%20(Reference).png)](Quadratic%20Screenshot%20(Reference).png)
+
+Quadratic connects directly to the PostgreSQL database and performs prompt-based analysis, calculations, and KPI generation on the ingested data.
+
 
 ---
 
